@@ -1,6 +1,10 @@
 #!/bin/bash
+
+# Script arguments
 # $1 = VM name
 # $2 interface number
+
+# Execute the script from the VBox VM directory
 
 
 if [ "$#" -ne 2 ]
